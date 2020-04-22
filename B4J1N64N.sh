@@ -12,12 +12,12 @@ echo "\033[32;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*
 toilet -f standard -F gay "ToolsB4j1n64n2"
 echo "\033[31;1m=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*=*="
 echo ""              
-echo "Author : " Mr.B4J1N64N"
-" Team : " DARKNESS CYBER TEAM"
-echo " Kontak Me :  083108271123"
+echo "Author : " Mr.ANDIKA_94"
+" Team : " DARKNESS LEADER CYBER TEAM"
+echo " Kontak Me :  085227689229"
 sleep 1
 echo "ThanksTo:"
-echo "Allmember DARKNESS CYBER TEAM"
+echo "Allmember DARKNESS LEADER CYBER TEAM"
 echo "\033[33;1m[============================[>"
 echo ""
 sleep 1
@@ -160,7 +160,7 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
 echo "\033[34;1m"
-figlet "Mr.B4J1N64N"
+figlet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -172,7 +172,7 @@ if
 then
 clear
 echo "\033[31;1m"
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -183,7 +183,7 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
 echo "\033[31;1m"
-figlet "Mr.B4J1N64N"
+figlet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -194,7 +194,7 @@ if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 echo "\033[33;1m"
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -204,7 +204,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant --gay "Mr.B4J1N64N"
+toilet -f slant --gay "Mr.ANDIKA_94"
 echo "\033[31;1m"
 cd
 cd T00Ls-B4J1N64N2
@@ -215,7 +215,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N"
+toilet -f mono12 -F gay "Mr.ANDIKA_94"
 echo "\033[30;1m"
 cd
 cd T00Ls-B4J1N64N2
@@ -226,7 +226,7 @@ fi
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -236,7 +236,7 @@ fi
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-figlet "Mr.B4J1N64N"
+figlet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -246,7 +246,7 @@ fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -256,7 +256,7 @@ fi
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -266,7 +266,7 @@ fi
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -276,7 +276,7 @@ fi
 if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -286,7 +286,7 @@ fi
 if [ $bro = 13 ] || [ $bro = 13 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -296,7 +296,7 @@ fi
 if [ $bro = 14 ] || [ $bro = 14 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 ls
@@ -307,7 +307,7 @@ fi
 if [ $bro = 15 ] || [ $bro = 15 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -317,7 +317,7 @@ fi
 if [ $bro = 16 ] || [ $bro = 16 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -327,7 +327,7 @@ fi
 if [ $bro = 17 ] || [ $bro = 17 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -337,7 +337,7 @@ fi
 if [ $bro = 18 ] || [ $bro = 18 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 cd module
@@ -347,7 +347,7 @@ fi
 if [ $bro = 19 ] || [ $bro = 19 ]
 then
 clear
-toilet "Mr.B4J1N64N"
+toilet "Mr.ANDIKA_94"
 cd
 cd T00Ls-B4J1N64N2
 ls
@@ -358,7 +358,7 @@ fi
 if [ $bro = 20 ] || [ bro = 20 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 cd T00Ls-B4J1N64N2
 cd module
 python2 botkomen.py
@@ -367,7 +367,7 @@ fi
 if [ $bro = 21 ] || [ $bro = 21 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 git clone https://github.com/kuburan/txtool
 cd 
 cd T00Ls-B4J1N64N2
@@ -396,7 +396,7 @@ fi
 if [ $bro = 23 ] || [ $bro = 23 ]
 then
 clear
-toilet -f mono12 -F gay "Mr.B4J1N64N" 
+toilet -f mono12 -F gay "Mr.ANDIKA_94" 
 apt upgrade
 apt install python2
 apt install git
@@ -410,7 +410,7 @@ fi
 if [ $bro = 24 ] || [ $bro = 24 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.ANDIKA_94" 
 apt update
 apt install git
 apt install php
@@ -425,7 +425,7 @@ fi
 if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.ANDIKA_94" 
 apt update
 apt install git
 apt install tor
@@ -452,7 +452,7 @@ fi
 if [ $bro = 27  || [ $bro = 27 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.ANDIKA_94" 
 apt update
 apt install git
 git clone https://github.com/b3-v3r/Hunner.git
@@ -466,7 +466,7 @@ fi
 if [ $bro = 28 ] || [ $bro = 28 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.ANDIKA_94" 
 apt update
 apt install git
 git clone https://github.com/sqlmapproject/sqlmap
@@ -479,7 +479,7 @@ fi
 if [ $bro = 29 ] || [ $bro = 29 ]
 then
 clear
-toilet -f standard -F gay "Mr.B4J1N64N" 
+toilet -f standard -F gay "Mr.ANDIKA_94" 
 apt update
 apt install git
 git clone https://github.com/aryanrtm/4wsectools
@@ -493,7 +493,7 @@ fi
 if [ $bro = 30 ] || [ $bro = 30 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 apt update && upgrade
 apt install python2 
 apt install git
@@ -506,7 +506,7 @@ fi
 if [ $bro = 31 ] || [ $bro = 31 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 echo "\033[32;m====================Mempercepat / menstabilkan sinyal===================="
 sleep 1
@@ -520,7 +520,7 @@ fi
 if [ $bro = 32 ] || [ $bro = 32 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 echo "\033[32;m===================Mempercepat / menstabilkan sinyal 2===================="
 sleep 1
@@ -534,7 +534,7 @@ fi
 if [ $bro = 33 ] || [ $bro = 33 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 git clone https://github.com/Hood3dRob1n/BinGoo
 cd T00Ls-B4J1N64N2
@@ -545,7 +545,7 @@ fi
 if [ $bro = 34 ] || [ $bro = 34 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 cd
 cd T00Ls-B4J1N64N2
@@ -556,7 +556,7 @@ fi
 if [ $bro = 35 ] || [ $bro = 35 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install termux-api
@@ -572,7 +572,7 @@ fi
 if [ $bro = 36 ] || [ $bro = 36 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install ruby
@@ -588,7 +588,7 @@ fi
 if [ $bro = 37 ] || [ $bro = 37 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 apt update && apt upgrade
 apt install python2
@@ -605,7 +605,7 @@ fi
 if [ $bro = 38 ] || [ $bro = 38 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -620,7 +620,7 @@ fi
 if [ $bro = 39 ] || [ $bro = 39 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1 
 apt install git
 apt install php
@@ -634,7 +634,7 @@ fi
 if [ $bro = 40 ] || [ $bro = 40 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1 
 apt install git
 apt install bash
@@ -649,7 +649,7 @@ fi
 if [ $bro = 41 ] || [ $bro = 41 ]
 then
 clear
-figlet "Mr.B4J1N64N" | lolcat
+figlet "Mr.ANDIKA_94" | lolcat
 sleep 1
 git clone https://github.com/MrKeepSmile/errorcybertool.git
 cd 
@@ -662,7 +662,7 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
-echo "\033[32;1mWe Are Family DARKNESS CYBER TEAM"
+echo "\033[32;1mWe Are Family DARKNESS LEADER CYBER TEAM"
 sleep 1
 echo "\033[33;1mWe Are Anonymous"
 sleep 1
